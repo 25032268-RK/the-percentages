@@ -12,8 +12,8 @@ import java.util.Scanner;
 public class Percentages2 {
     
   public static double computePercent(double num1, double num2){
-        double total = (num1 / num2) * 100;
-        return total;
+        double percentage = (num1 / num2) * 100;
+        return percentage;
        
        // System.out.println("");
     }
