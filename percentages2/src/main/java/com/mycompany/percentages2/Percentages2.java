@@ -31,6 +31,7 @@ public class Percentages2 {
         
        double result2 = computePercent(num2, num1);
         System.out.println(num2 + " is " + result2 + " percent of " + num1 );
+        scanner.close();
     }
   
 }
