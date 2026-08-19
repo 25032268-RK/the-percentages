@@ -27,10 +27,10 @@ public class Percentages2 {
        double num2 = scanner.nextDouble();
        
        double result = computePercent(num1, num2);
-        System.out.println(num1 + "is " + result + " percent of " + num2);
+        System.out.println(num1 + " is " + result + " percent of " + num2);
         
        double result2 = computePercent(num2, num1);
-        System.out.println(num2 + "is " + result2 + " percent of " + num1 );
+        System.out.println(num2 + " is " + result2 + " percent of " + num1 );
     }
   
 }
