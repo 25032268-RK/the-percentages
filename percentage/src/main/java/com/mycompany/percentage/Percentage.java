@@ -13,11 +13,8 @@ public class Percentage {
 
   
   public static double computePercent(double num1, double num2){
-        double total = (num1 / num2) * 100;
-        return total;
-       
-       // System.out.println("");
-    }
+        double percentage = (num1 / num2) * 100;
+        return percentage;
     
     public static void main(String[] args) {
 
